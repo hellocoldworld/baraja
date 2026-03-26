@@ -1,0 +1,4 @@
+_output/*.png
+_output/*.pdf
+*lock*
+.DS_Store
